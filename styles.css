@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('wafu-background.jpg') no-repeat center center/cover;
+    text-align: center;
+    color: white;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 50px 20px;
+}
+
+.btn {
+    background-color: #ffcc00;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+    border-radius: 5px;
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+}
